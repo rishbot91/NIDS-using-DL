@@ -14,7 +14,7 @@ This project is designed to detect network intrusion anomalies using the NSL-KDD
 - Utilizes Google OAuth 2.0 for secure user authentication.
 - User details stored securely in MongoDB using salted hash.
 
-##To run locally on your system:
+## To run locally on your system:
 
 
 - Fork or Clone the project using command [git clone "https://github.com/rishbot91/NISD-using-DL.git"]
